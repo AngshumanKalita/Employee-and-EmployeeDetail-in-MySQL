@@ -1,1 +1,1 @@
-# Employee-and-EmployeeDetail-in-MySQL
+# Employee-and-EmployeeDetail-using-MySQL
